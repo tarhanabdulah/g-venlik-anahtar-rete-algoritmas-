@@ -1,1 +1,1 @@
-# g-venlik-anahtar-rete-algoritmas-
+# guvenlik-anahtar-uretec-algoritmasi-
